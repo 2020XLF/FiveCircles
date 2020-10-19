@@ -1,0 +1,4 @@
+注意事项：
+	以下连接中 跳过 安装ipython的步骤
+
+https://www.cnblogs.com/xcc-/p/xcc02.html
